@@ -1,0 +1,4 @@
+To compile:
+g++ 55211931.cpp -lpthread -o 55211931
+To run:
+./55211931
